@@ -1,25 +1,27 @@
 def caesar_enc(msg,key):
     # caesar cipher encryption function
-    pass
+    cipher = ''
     return cipher
 def caesar_dec(cipher,key):
     # caesar cipher decryption function
-    pass
+    msg = ''
     return msg
 
 
 def establish_symm_keys(keylen):
     # generate a random key with given keylen
-    pass
+    key = ''
     return key
 
 
 def enc_aes(plaintext,key):
     #AES encryption
+    ciphertext = ''
     return ciphertext
 
 def dec_aes(ciphertext, key):
     #AES decryption
+    plaintext = ''
     return plaintext
 
 
@@ -36,6 +38,6 @@ def caesar():
     # decrypt the caesar cipher below.
     cipher = 'H tlzzhnl myvt aol ltwlyvy'
 
-
+print('uncomment caesar to run caeser cipher, uncomment symm_cipher to run symmetric cipher')
 #caesar()
 #symm_cipher()
