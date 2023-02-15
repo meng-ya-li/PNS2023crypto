@@ -4,8 +4,8 @@ workshop materials for privacy and network security module
 
 Last update:
 
-13 Feb - week 5 lecture slides, week 5 workshop lab manual and starter code.
+15 Feb - answer to week 4 coding exercise - see in week 4 folder.
 
 Next update:
 
-15 Feb - example solution code for week 4 workshop.
+-
